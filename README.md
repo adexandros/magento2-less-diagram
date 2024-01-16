@@ -7,3 +7,8 @@ Since then probably additional changes have been made to the file structure that
 but it could still be helpful to others that are approching Magento for the first time or are still puzzled by its styling structure - luckly there are tools like Hyva that will make your life easier, but if you're "stuck" with the base, this my come in handy!
 
 Please feel free to fork it and make it your, updated it or make a better version
+
+I've used draw.io to make, so you can import into it and export into other, preferable formats.
+
+![image](https://github.com/adexandros/magento2-less-diagram/assets/5301695/524b31f2-6f94-4218-a740-a309548a3056)
+
